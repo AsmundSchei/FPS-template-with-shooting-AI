@@ -5,4 +5,4 @@ Got features like leaning, aiming, match time, projectile sound attenuation and 
 Steam multiplayer setup is hopefully getting added. 
  
  Developed using 4.25 by Åsmund Schei and DeathClonic 
-![Screenshot](https://user-images.githubusercontent.com/2607194/136297912-531f2549-4cdd-417f-8057-cc200cd2a457.JPG)
+![Screenshot]![FC-RcD1X0AoX_yg](https://user-images.githubusercontent.com/2607194/139557246-ebfee763-3639-44f1-805d-8046f3dfbf6f.jpg)
