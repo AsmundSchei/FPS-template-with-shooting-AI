@@ -2,7 +2,7 @@
  FPS template with shooting AI for UnrealEngine
  
 Got features like leaning, aiming, match time, projectile sound attenuation and scoreboard. 
-(Updated hud, thanks alot to Kosm for gun icon)
+(Updated hud, thanks alot to Kosm (vfxfactory.org) for gun icon)
  
 Developed using 4.25 by Åsmund Schei and DeathClonic 
 
