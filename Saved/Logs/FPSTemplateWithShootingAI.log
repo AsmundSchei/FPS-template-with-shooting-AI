@@ -1631,3 +1631,1169 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.01.06-22.14.50:509][945]AssetCheck: New page: Asset Save: multiple assets
 [2022.01.06-22.14.50:509][945]LogContentValidation: Display: Validating World /Game/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap
 [2022.01.06-22.14.50:509][945]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Game/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.01.06-22.16.18:291][647]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.06-22.16.18:305][647]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.06-22.16.18:306][647]PIE: New page: PIE session: FirstPersonExampleMap (Jan 7, 2022, 12:16:18 AM)
+[2022.01.06-22.16.18:306][647]LogPlayLevel: Creating play world package: /Game/Game/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.01.06-22.16.18:319][647]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013299s)
+[2022.01.06-22.16.18:320][647]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.01.06-22.16.18:320][647]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001DF16905400), frame # 62647
+[2022.01.06-22.16.18:320][647]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001DF18AD87C0), frame # 62647
+[2022.01.06-22.16.18:321][647]LogPlayLevel: PIE: World Init took: (0.001328s)
+[2022.01.06-22.16.18:321][647]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/Game/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.014767s)
+[2022.01.06-22.16.18:343][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2022.01.06-22.16.18:346][647]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.06-22.16.18:346][647]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.06-22.16.18:346][647]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.06-22.16.18:346][647]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.06-22.16.18:346][647]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.06-22.16.18:346][647]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.06-22.16.18:346][647]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.06-22.16.18:346][647]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.06-22.16.18:346][647]LogAudio: Display: Using built-in audio occlusion.
+[2022.01.06-22.16.18:346][647]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.06-22.16.18:348][647]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.06-22.16.18:348][647]LogAudioMixer: Display: 1: FrontRight
+[2022.01.06-22.16.18:348][647]LogAudioMixer: Display: 2: FrontCenter
+[2022.01.06-22.16.18:348][647]LogAudioMixer: Display: 3: LowFrequency
+[2022.01.06-22.16.18:348][647]LogAudioMixer: Display: 4: BackLeft
+[2022.01.06-22.16.18:348][647]LogAudioMixer: Display: 5: BackRight
+[2022.01.06-22.16.18:348][647]LogAudioMixer: Display: 6: SideLeft
+[2022.01.06-22.16.18:348][647]LogAudioMixer: Display: 7: SideRight
+[2022.01.06-22.16.18:377][647]LogAudioMixer: Display: Using Audio Device Headphones (ROG Headset)
+[2022.01.06-22.16.18:377][647]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.06-22.16.18:377][647]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.06-22.16.18:377][647]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.06-22.16.18:378][647]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.06-22.16.18:390][647]LogInit: FAudioDevice initialized.
+[2022.01.06-22.16.18:395][647]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.01.06-22.16.18:400][647]LogWorld: Bringing World /Game/Game/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2022.01.06-23.16.18
+[2022.01.06-22.16.18:400][647]LogWorld: Bringing up level for play took: 0.004551
+[2022.01.06-22.16.18:401][647]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2022.01.06-22.16.18:404][647]PIE: Server logged in
+[2022.01.06-22.16.18:405][647]PIE: Play in editor total start time 0.1 seconds.
+[2022.01.06-22.17.11:994][768]LogRenderer: Reallocating scene render targets to support 1336x784 Format 10 NumSamples 1 (Frame:3093).
+[2022.01.06-22.17.12:034][769]LogRenderer: Reallocating scene render targets to support 1356x784 Format 10 NumSamples 1 (Frame:3094).
+[2022.01.06-22.17.12:076][770]LogRenderer: Reallocating scene render targets to support 1372x784 Format 10 NumSamples 1 (Frame:3095).
+[2022.01.06-22.17.12:116][771]LogRenderer: Reallocating scene render targets to support 1396x784 Format 10 NumSamples 1 (Frame:3096).
+[2022.01.06-22.17.12:150][772]LogRenderer: Reallocating scene render targets to support 1432x784 Format 10 NumSamples 1 (Frame:3097).
+[2022.01.06-22.17.12:184][773]LogRenderer: Reallocating scene render targets to support 1452x784 Format 10 NumSamples 1 (Frame:3098).
+[2022.01.06-22.17.12:220][774]LogRenderer: Reallocating scene render targets to support 1476x784 Format 10 NumSamples 1 (Frame:3099).
+[2022.01.06-22.17.12:253][775]LogRenderer: Reallocating scene render targets to support 1488x784 Format 10 NumSamples 1 (Frame:3100).
+[2022.01.06-22.17.12:288][776]LogRenderer: Reallocating scene render targets to support 1508x784 Format 10 NumSamples 1 (Frame:3101).
+[2022.01.06-22.17.12:320][777]LogRenderer: Reallocating scene render targets to support 1544x784 Format 10 NumSamples 1 (Frame:3102).
+[2022.01.06-22.17.12:349][778]LogRenderer: Reallocating scene render targets to support 1576x784 Format 10 NumSamples 1 (Frame:3103).
+[2022.01.06-22.17.12:372][779]LogRenderer: Reallocating scene render targets to support 1592x784 Format 10 NumSamples 1 (Frame:3104).
+[2022.01.06-22.17.12:403][780]LogRenderer: Reallocating scene render targets to support 1600x784 Format 10 NumSamples 1 (Frame:3105).
+[2022.01.06-22.17.12:432][781]LogRenderer: Reallocating scene render targets to support 1604x784 Format 10 NumSamples 1 (Frame:3106).
+[2022.01.06-22.17.12:460][782]LogRenderer: Reallocating scene render targets to support 1612x784 Format 10 NumSamples 1 (Frame:3107).
+[2022.01.06-22.17.12:498][783]LogRenderer: Reallocating scene render targets to support 1620x784 Format 10 NumSamples 1 (Frame:3108).
+[2022.01.06-22.17.12:528][784]LogRenderer: Reallocating scene render targets to support 1636x784 Format 10 NumSamples 1 (Frame:3109).
+[2022.01.06-22.17.12:561][785]LogRenderer: Reallocating scene render targets to support 1648x784 Format 10 NumSamples 1 (Frame:3110).
+[2022.01.06-22.17.12:587][786]LogRenderer: Reallocating scene render targets to support 1656x784 Format 10 NumSamples 1 (Frame:3111).
+[2022.01.06-22.17.12:960][806]LogRenderer: Reallocating scene render targets to support 1664x784 Format 10 NumSamples 1 (Frame:3112).
+[2022.01.06-22.17.12:983][807]LogRenderer: Reallocating scene render targets to support 1676x784 Format 10 NumSamples 1 (Frame:3113).
+[2022.01.06-22.18.04:486][892]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.06-22.18.04:486][892]LogWorld: BeginTearingDown for /Game/Game/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.01.06-22.18.04:487][892]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.01.06-22.18.04:487][892]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.06-22.18.04:506][892]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.06-22.18.04:509][892]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.06-22.18.04:527][892]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.06-22.18.04:558][892]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001DF18AD87C0), frame # 68892
+[2022.01.06-22.18.04:558][892]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001DF16905400), frame # 68892
+[2022.01.06-22.18.04:560][892]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.01.06-22.18.04:606][893]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2022.01.06-22.18.11:233][287]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.01.06-22.18.58:936][148]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall9)
+[2022.01.06-22.19.00:200][221]Cmd: EDIT COPY
+[2022.01.06-22.19.00:377][231]Cmd: EDIT PASTE
+[2022.01.06-22.19.06:265][572]LogEditorViewport: Clicking Background
+[2022.01.06-22.19.12:981][973]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.01.06-22.19.13:020][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.01.06-22.19.13:053][973]LogSavePackage: Moving '../../../../../../Users/aasmu/Documents/GitHub/FPS-template-with-shooting-AI/Saved/FirstPersonExampleMap2530EEAC4AADE88158079499445ED87D.tmp' to '../../../../../../Users/aasmu/Documents/GitHub/FPS-template-with-shooting-AI/Content/Game/Maps/FirstPersonExampleMap.umap'
+[2022.01.06-22.19.13:083][973]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.081
+[2022.01.06-22.19.13:344][973]LogSavePackage: Moving '../../../../../../Users/aasmu/Documents/GitHub/FPS-template-with-shooting-AI/Saved/FirstPersonExampleMap_BuiltDataC5C55B024C9F0A901363248719DD427D.tmp' to '../../../../../../Users/aasmu/Documents/GitHub/FPS-template-with-shooting-AI/Content/Game/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.01.06-22.19.13:588][973]LogSavePackage: Moving '../../../../../../Users/aasmu/Documents/GitHub/FPS-template-with-shooting-AI/Saved/FirstPersonExampleMap_BuiltDataCF3A57574C5771DC26EEC88586F2D72E.tmp' to '../../../../../../Users/aasmu/Documents/GitHub/FPS-template-with-shooting-AI/Content/Game/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.01.06-22.19.13:604][973]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.06-22.19.13:604][973]LogContentValidation: Display: Validating World /Game/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.01.06-22.19.13:604][973]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Game/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.01.06-22.19.14:300][ 15]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.06-22.19.14:314][ 15]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.06-22.19.14:314][ 15]PIE: New page: PIE session: FirstPersonExampleMap (Jan 7, 2022, 12:19:14 AM)
+[2022.01.06-22.19.14:345][ 15]LogPlayLevel: Creating play world package: /Game/Game/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.01.06-22.19.14:358][ 15]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012734s)
+[2022.01.06-22.19.14:359][ 15]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.01.06-22.19.14:359][ 15]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001DF214F0C00), frame # 71015
+[2022.01.06-22.19.14:359][ 15]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001DF1FC6A980), frame # 71015
+[2022.01.06-22.19.14:359][ 15]LogPlayLevel: PIE: World Init took: (0.001362s)
+[2022.01.06-22.19.14:359][ 15]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/Game/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.014268s)
+[2022.01.06-22.19.14:381][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.01.06-22.19.14:383][ 15]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.06-22.19.14:383][ 15]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.06-22.19.14:383][ 15]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.06-22.19.14:383][ 15]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.06-22.19.14:383][ 15]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.06-22.19.14:383][ 15]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.06-22.19.14:383][ 15]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.06-22.19.14:383][ 15]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.06-22.19.14:383][ 15]LogAudio: Display: Using built-in audio occlusion.
+[2022.01.06-22.19.14:383][ 15]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.06-22.19.14:385][ 15]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.06-22.19.14:385][ 15]LogAudioMixer: Display: 1: FrontRight
+[2022.01.06-22.19.14:385][ 15]LogAudioMixer: Display: 2: FrontCenter
+[2022.01.06-22.19.14:385][ 15]LogAudioMixer: Display: 3: LowFrequency
+[2022.01.06-22.19.14:385][ 15]LogAudioMixer: Display: 4: BackLeft
+[2022.01.06-22.19.14:385][ 15]LogAudioMixer: Display: 5: BackRight
+[2022.01.06-22.19.14:385][ 15]LogAudioMixer: Display: 6: SideLeft
+[2022.01.06-22.19.14:385][ 15]LogAudioMixer: Display: 7: SideRight
+[2022.01.06-22.19.14:417][ 15]LogAudioMixer: Display: Using Audio Device Headphones (ROG Headset)
+[2022.01.06-22.19.14:417][ 15]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.06-22.19.14:417][ 15]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.06-22.19.14:417][ 15]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.06-22.19.14:418][ 15]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.06-22.19.14:430][ 15]LogInit: FAudioDevice initialized.
+[2022.01.06-22.19.14:441][ 15]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.01.06-22.19.14:446][ 15]LogWorld: Bringing World /Game/Game/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2022.01.06-23.19.14
+[2022.01.06-22.19.14:447][ 15]LogWorld: Bringing up level for play took: 0.005365
+[2022.01.06-22.19.14:447][ 15]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2022.01.06-22.19.14:451][ 15]PIE: Server logged in
+[2022.01.06-22.19.14:451][ 15]PIE: Play in editor total start time 0.138 seconds.
+[2022.01.06-22.20.04:808][ 35]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1727.669 Y=715.319 Z=305.701] for [FirstPersonProjectile_C]
+[2022.01.06-22.20.04:876][ 39]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1751.151 Y=729.420 Z=306.421] for [FirstPersonProjectile_C]
+[2022.01.06-22.20.34:776][830]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.06-22.20.34:776][830]LogWorld: BeginTearingDown for /Game/Game/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.01.06-22.20.34:776][830]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.01.06-22.20.34:777][830]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.06-22.20.34:782][830]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.06-22.20.34:786][830]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.06-22.20.34:802][830]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.06-22.20.34:843][830]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001DF1FC6A980), frame # 75830
+[2022.01.06-22.20.34:843][830]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001DF214F0C00), frame # 75830
+[2022.01.06-22.20.34:844][830]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.01.06-22.20.34:883][831]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2022.01.06-22.21.26:347][845]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.06-22.21.26:361][845]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.06-22.21.26:361][845]PIE: New page: PIE session: FirstPersonExampleMap (Jan 7, 2022, 12:21:26 AM)
+[2022.01.06-22.21.26:361][845]LogPlayLevel: Creating play world package: /Game/Game/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.01.06-22.21.26:375][845]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013933s)
+[2022.01.06-22.21.26:376][845]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.01.06-22.21.26:376][845]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001DF0CFEF200), frame # 76845
+[2022.01.06-22.21.26:376][845]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001DF18FF6C00), frame # 76845
+[2022.01.06-22.21.26:377][845]LogPlayLevel: PIE: World Init took: (0.001791s)
+[2022.01.06-22.21.26:377][845]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/Game/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.015846s)
+[2022.01.06-22.21.26:398][845]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.01.06-22.21.26:400][845]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.06-22.21.26:400][845]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.06-22.21.26:400][845]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.06-22.21.26:400][845]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.06-22.21.26:400][845]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.06-22.21.26:400][845]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.06-22.21.26:400][845]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.06-22.21.26:400][845]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.06-22.21.26:400][845]LogAudio: Display: Using built-in audio occlusion.
+[2022.01.06-22.21.26:400][845]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.06-22.21.26:402][845]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.06-22.21.26:402][845]LogAudioMixer: Display: 1: FrontRight
+[2022.01.06-22.21.26:402][845]LogAudioMixer: Display: 2: FrontCenter
+[2022.01.06-22.21.26:402][845]LogAudioMixer: Display: 3: LowFrequency
+[2022.01.06-22.21.26:402][845]LogAudioMixer: Display: 4: BackLeft
+[2022.01.06-22.21.26:402][845]LogAudioMixer: Display: 5: BackRight
+[2022.01.06-22.21.26:402][845]LogAudioMixer: Display: 6: SideLeft
+[2022.01.06-22.21.26:402][845]LogAudioMixer: Display: 7: SideRight
+[2022.01.06-22.21.26:433][845]LogAudioMixer: Display: Using Audio Device Headphones (ROG Headset)
+[2022.01.06-22.21.26:433][845]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.06-22.21.26:433][845]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.06-22.21.26:433][845]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.06-22.21.26:434][845]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.06-22.21.26:446][845]LogInit: FAudioDevice initialized.
+[2022.01.06-22.21.26:454][845]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.01.06-22.21.26:459][845]LogWorld: Bringing World /Game/Game/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2022.01.06-23.21.26
+[2022.01.06-22.21.26:460][845]LogWorld: Bringing up level for play took: 0.004543
+[2022.01.06-22.21.26:460][845]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2022.01.06-22.21.26:464][845]PIE: Server logged in
+[2022.01.06-22.21.26:465][845]PIE: Play in editor total start time 0.104 seconds.
+[2022.01.06-22.21.48:256][149]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.06-22.21.48:256][149]LogWorld: BeginTearingDown for /Game/Game/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.01.06-22.21.48:256][149]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.01.06-22.21.48:257][149]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.06-22.21.48:261][149]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.06-22.21.48:264][149]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.06-22.21.48:281][149]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.06-22.21.48:302][149]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001DF18FF6C00), frame # 78149
+[2022.01.06-22.21.48:302][149]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001DF0CFEF200), frame # 78149
+[2022.01.06-22.21.48:304][149]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.01.06-22.21.48:342][150]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2022.01.06-22.22.19:812][ 79]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall11)
+[2022.01.06-22.22.36:872][ 72]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall4)
+[2022.01.06-22.22.44:508][518]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall17)
+[2022.01.06-22.24.09:661][848]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall8)
+[2022.01.06-22.24.15:265][173]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.01.06-22.24.20:575][489]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall41)
+[2022.01.06-22.24.29:489][  0]LogEditorViewport: Clicking Background
+[2022.01.06-22.24.38:460][538]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.06-22.24.38:474][538]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.06-22.24.38:474][538]PIE: New page: PIE session: FirstPersonExampleMap (Jan 7, 2022, 12:24:38 AM)
+[2022.01.06-22.24.38:505][538]LogPlayLevel: Creating play world package: /Game/Game/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.01.06-22.24.38:518][538]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012852s)
+[2022.01.06-22.24.38:519][538]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.01.06-22.24.38:519][538]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001DF15A56600), frame # 84538
+[2022.01.06-22.24.38:519][538]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001DF50A45D00), frame # 84538
+[2022.01.06-22.24.38:520][538]LogPlayLevel: PIE: World Init took: (0.001483s)
+[2022.01.06-22.24.38:520][538]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/Game/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.014575s)
+[2022.01.06-22.24.38:539][538]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.01.06-22.24.38:546][538]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.06-22.24.38:546][538]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.06-22.24.38:546][538]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.06-22.24.38:546][538]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.06-22.24.38:546][538]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.06-22.24.38:546][538]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.06-22.24.38:546][538]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.06-22.24.38:546][538]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.06-22.24.38:546][538]LogAudio: Display: Using built-in audio occlusion.
+[2022.01.06-22.24.38:546][538]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.06-22.24.38:548][538]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.06-22.24.38:548][538]LogAudioMixer: Display: 1: FrontRight
+[2022.01.06-22.24.38:548][538]LogAudioMixer: Display: 2: FrontCenter
+[2022.01.06-22.24.38:548][538]LogAudioMixer: Display: 3: LowFrequency
+[2022.01.06-22.24.38:548][538]LogAudioMixer: Display: 4: BackLeft
+[2022.01.06-22.24.38:548][538]LogAudioMixer: Display: 5: BackRight
+[2022.01.06-22.24.38:548][538]LogAudioMixer: Display: 6: SideLeft
+[2022.01.06-22.24.38:548][538]LogAudioMixer: Display: 7: SideRight
+[2022.01.06-22.24.38:582][538]LogAudioMixer: Display: Using Audio Device Headphones (ROG Headset)
+[2022.01.06-22.24.38:582][538]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.06-22.24.38:582][538]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.06-22.24.38:582][538]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.06-22.24.38:583][538]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.06-22.24.38:594][538]LogInit: FAudioDevice initialized.
+[2022.01.06-22.24.38:601][538]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.01.06-22.24.38:605][538]LogWorld: Bringing World /Game/Game/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2022.01.06-23.24.38
+[2022.01.06-22.24.38:606][538]LogWorld: Bringing up level for play took: 0.004631
+[2022.01.06-22.24.38:606][538]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2022.01.06-22.24.38:610][538]PIE: Server logged in
+[2022.01.06-22.24.38:611][538]PIE: Play in editor total start time 0.137 seconds.
+[2022.01.06-22.26.26:035][980]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.06-22.26.26:035][980]LogWorld: BeginTearingDown for /Game/Game/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.01.06-22.26.26:035][980]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.01.06-22.26.26:036][980]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.06-22.26.26:048][980]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.06-22.26.26:051][980]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.06-22.26.26:069][980]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.06-22.26.26:108][980]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001DF50A45D00), frame # 90980
+[2022.01.06-22.26.26:108][980]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001DF15A56600), frame # 90980
+[2022.01.06-22.26.26:110][980]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.01.06-22.26.26:148][981]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2022.01.06-22.27.07:343][443]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Game/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2022.01.06-22.27.16:913][983]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Game/Blueprints/FirstPersonProjectile.FirstPersonProjectile
+[2022.01.06-22.28.35:167][676]LogSavePackage: Moving '../../../../../../Users/aasmu/Documents/GitHub/FPS-template-with-shooting-AI/Saved/FirstPersonCharacterA1D40D1A48F116F46289939B1F7D18C3.tmp' to '../../../../../../Users/aasmu/Documents/GitHub/FPS-template-with-shooting-AI/Content/Game/Blueprints/FirstPersonCharacter.uasset'
+[2022.01.06-22.28.35:184][676]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2022.01.06-22.28.35:184][676]LogContentValidation: Display: Validating Blueprint /Game/Game/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2022.01.06-22.30.27:263][ 63]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Game/Assets/Art/BulletHoleDecal.BulletHoleDecal
+[2022.01.06-22.30.27:264][ 63]LogMaterial: Display: Missing cached shader map for material BulletHoleDecal, compiling. 
+[2022.01.06-22.30.27:325][ 63]LogMaterial: Display: Missing cached shader map for material BulletHoleDecal, compiling. 
+[2022.01.06-22.30.27:330][ 63]LogMaterial: Display: Missing cached shader map for material BulletHoleDecal, compiling. 
+[2022.01.06-22.30.27:345][ 63]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.01.06-22.30.27:345][ 63]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.01.06-22.30.27:345][ 63]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.01.06-22.30.27:345][ 63]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.01.06-22.30.27:345][ 63]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.01.06-22.30.27:345][ 63]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.01.06-22.30.27:345][ 63]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.01.06-22.30.27:345][ 63]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.01.06-22.30.27:345][ 63]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.01.06-22.30.28:577][110]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.01.06-22.30.28:577][110]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.01.06-22.30.28:577][110]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2022.01.06-22.30.28:577][110]MaterialEditorStats: Texture samplers: 2/16
+[2022.01.06-22.30.36:123][482]LogMaterial: Display: Missing cached shader map for material BulletHoleDecal, compiling. 
+[2022.01.06-22.30.36:128][482]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.01.06-22.30.36:128][482]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.01.06-22.30.36:128][482]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.01.06-22.30.36:128][482]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.01.06-22.30.36:128][482]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.01.06-22.30.36:128][482]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.01.06-22.30.36:128][482]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.01.06-22.30.36:128][482]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.01.06-22.30.36:128][482]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.01.06-22.30.36:128][482]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2022.01.06-22.30.36:140][482]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2022.01.06-22.30.36:182][483]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2022.01.06-22.30.36:182][483]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2022.01.06-22.30.36:182][483]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2022.01.06-22.30.37:103][507]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.01.06-22.30.37:555][525]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.01.06-22.30.37:555][525]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.01.06-22.30.37:555][525]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2022.01.06-22.30.37:555][525]MaterialEditorStats: Texture samplers: 2/16
+[2022.01.06-22.30.38:500][581]LogMaterial: Display: Missing cached shader map for material BulletHoleDecal, compiling. 
+[2022.01.06-22.30.38:511][581]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.01.06-22.30.38:511][581]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.01.06-22.30.38:511][581]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.01.06-22.30.38:511][581]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.01.06-22.30.38:511][581]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.01.06-22.30.38:511][581]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.01.06-22.30.38:511][581]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.01.06-22.30.38:511][581]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.01.06-22.30.38:511][581]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.01.06-22.30.38:513][581]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2022.01.06-22.30.38:543][582]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2022.01.06-22.30.38:543][582]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2022.01.06-22.30.38:543][582]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2022.01.06-22.30.39:452][605]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1
+[2022.01.06-22.30.39:867][623]MaterialEditorStats: Base pass shader: 120 instructions
+[2022.01.06-22.30.39:867][623]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2022.01.06-22.30.39:867][623]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2022.01.06-22.30.39:867][623]MaterialEditorStats: Texture samplers: 3/16
+[2022.01.06-22.30.39:867][623]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.01.06-22.30.39:867][623]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.06-22.30.43:112][814]LogMaterial: Display: Missing cached shader map for material BulletHoleDecal, compiling. 
+[2022.01.06-22.30.43:117][814]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.01.06-22.30.43:117][814]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.01.06-22.30.43:117][814]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2022.01.06-22.30.43:117][814]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.01.06-22.30.43:117][814]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.01.06-22.30.43:117][814]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.01.06-22.30.43:117][814]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.01.06-22.30.43:117][814]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.01.06-22.30.43:117][814]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.01.06-22.30.44:205][857]MaterialEditorStats: Base pass shader: 120 instructions
+[2022.01.06-22.30.44:205][857]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2022.01.06-22.30.44:205][857]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2022.01.06-22.30.44:205][857]MaterialEditorStats: Texture samplers: 3/16
+[2022.01.06-22.30.44:205][857]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.01.06-22.30.44:205][857]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.06-22.30.44:724][888]LogMaterial: Display: Missing cached shader map for material BulletHoleDecal, compiling. 
+[2022.01.06-22.30.44:724][888]LogMaterial: Warning: /Engine/Transient.BulletHoleDecal (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.01.06-22.30.44:724][888]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2022.01.06-22.30.44:730][888]LogMaterial: Display: Missing cached shader map for material BulletHoleDecal, compiling. 
+[2022.01.06-22.30.44:730][888]LogMaterial: Warning: /Engine/Transient.BulletHoleDecal (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.01.06-22.30.44:730][888]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2022.01.06-22.30.44:732][888]LogMaterial: Display: Missing cached shader map for material BulletHoleDecal, compiling. 
+[2022.01.06-22.30.44:732][888]LogMaterial: Warning: /Engine/Transient.BulletHoleDecal (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.01.06-22.30.44:732][888]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2022.01.06-22.30.44:740][888]MaterialEditorStats: Error: [SM5] Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2022.01.06-22.30.56:237][346]LogMaterial: Display: Missing cached shader map for material BulletHoleDecal, compiling. 
+[2022.01.06-22.30.56:238][346]LogMaterial: Warning: /Engine/Transient.BulletHoleDecal (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.01.06-22.30.56:238][346]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2022.01.06-22.30.56:246][346]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2022.01.06-22.30.56:251][346]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2022.01.06-22.30.56:251][346]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2022.01.06-22.30.56:251][346]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2022.01.06-22.30.56:251][346]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2022.01.06-22.30.58:834][497]LogMaterialEditor: Saving and Compiling material BulletHoleDecal
+[2022.01.06-22.31.00:819][497]LogSlate: Window 'Warning: Compilation errors in this Material' being destroyed
+[2022.01.06-22.31.06:117][775]LogMaterial: Display: Missing cached shader map for material BulletHoleDecal, compiling. 
+[2022.01.06-22.31.06:118][775]LogMaterial: Warning: /Engine/Transient.BulletHoleDecal (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.01.06-22.31.06:118][775]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2022.01.06-22.31.07:294][845]LogMaterial: Display: Missing cached shader map for material BulletHoleDecal, compiling. 
+[2022.01.06-22.31.07:326][845]LogMaterial: Display: Missing cached shader map for material BulletHoleDecal, compiling. 
+[2022.01.06-22.31.07:337][845]LogMaterial: Display: Missing cached shader map for material BulletHoleDecal, compiling. 
+[2022.01.06-22.31.07:368][846]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 24
+[2022.01.06-22.31.07:369][846]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 23
+[2022.01.06-22.31.07:369][846]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 22
+[2022.01.06-22.31.07:369][846]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 21
+[2022.01.06-22.31.07:369][846]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 20
+[2022.01.06-22.31.07:369][846]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 19
+[2022.01.06-22.31.07:369][846]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 18
+[2022.01.06-22.31.07:369][846]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 17
+[2022.01.06-22.31.07:369][846]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 16
+[2022.01.06-22.31.07:369][846]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 15
+[2022.01.06-22.31.07:369][846]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 14
+[2022.01.06-22.31.07:369][846]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 13
+[2022.01.06-22.31.07:966][866]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 12
+[2022.01.06-22.31.07:966][866]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 11
+[2022.01.06-22.31.08:049][868]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 10
+[2022.01.06-22.31.08:309][875]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 9
+[2022.01.06-22.31.08:393][877]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.01.06-22.31.08:467][879]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 7
+[2022.01.06-22.31.08:715][886]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 6
+[2022.01.06-22.31.08:784][888]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2022.01.06-22.31.08:821][889]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2022.01.06-22.31.08:901][891]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2022.01.06-22.31.08:901][891]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
+[2022.01.06-22.31.08:901][891]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.01.06-22.31.09:030][895]LogMaterialEditor: Saving and Compiling material BulletHoleDecal
+[2022.01.06-22.31.09:734][895]LogMaterial: Display: Missing cached shader map for material BulletHoleDecal, compiling. 
+[2022.01.06-22.31.09:783][895]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 24
+[2022.01.06-22.31.09:783][895]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 23
+[2022.01.06-22.31.09:783][895]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 22
+[2022.01.06-22.31.09:783][895]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 21
+[2022.01.06-22.31.09:783][895]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 20
+[2022.01.06-22.31.09:783][895]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 19
+[2022.01.06-22.31.09:783][895]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 18
+[2022.01.06-22.31.09:783][895]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 17
+[2022.01.06-22.31.09:784][895]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 16
+[2022.01.06-22.31.09:784][895]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 15
+[2022.01.06-22.31.09:784][895]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 14
+[2022.01.06-22.31.09:820][895]LogMaterial: Display: Missing cached shader map for material BulletHoleDecal, compiling. 
+[2022.01.06-22.31.09:904][895]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2022.01.06-22.31.09:908][895]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2022.01.06-22.31.09:952][895]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 47
+[2022.01.06-22.31.09:953][895]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2022.01.06-22.31.10:574][895]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 46
+[2022.01.06-22.31.10:574][895]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 45
+[2022.01.06-22.31.10:574][895]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 44
+[2022.01.06-22.31.10:574][895]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 43
+[2022.01.06-22.31.11:134][895]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 42
+[2022.01.06-22.31.11:134][895]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 41
+[2022.01.06-22.31.11:134][895]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 40
+[2022.01.06-22.31.11:134][895]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 39
+[2022.01.06-22.31.11:134][895]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 38
+[2022.01.06-22.31.11:134][895]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 37
+[2022.01.06-22.31.11:134][895]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 36
+[2022.01.06-22.31.11:134][895]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 35
+[2022.01.06-22.31.11:692][895]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 34
+[2022.01.06-22.31.11:692][895]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 31
+[2022.01.06-22.31.11:692][895]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 28
+[2022.01.06-22.31.11:692][895]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 25
+[2022.01.06-22.31.12:251][895]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 22
+[2022.01.06-22.31.12:251][895]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 20
+[2022.01.06-22.31.12:251][895]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 18
+[2022.01.06-22.31.12:251][895]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 16
+[2022.01.06-22.31.12:251][895]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 14
+[2022.01.06-22.31.12:251][895]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 12
+[2022.01.06-22.31.12:251][895]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 10
+[2022.01.06-22.31.12:810][895]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 9
+[2022.01.06-22.31.13:368][895]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 8
+[2022.01.06-22.31.13:368][895]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 7
+[2022.01.06-22.31.13:368][895]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 6
+[2022.01.06-22.31.13:928][895]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2022.01.06-22.31.13:928][895]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2022.01.06-22.31.13:928][895]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 3
+[2022.01.06-22.31.13:928][895]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 2
+[2022.01.06-22.31.13:928][895]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.01.06-22.31.14:499][895]LogSavePackage: Moving '../../../../../../Users/aasmu/Documents/GitHub/FPS-template-with-shooting-AI/Saved/BulletHoleDecal6D98F056424B903780337CAF0E03C383.tmp' to '../../../../../../Users/aasmu/Documents/GitHub/FPS-template-with-shooting-AI/Content/Game/Assets/Art/BulletHoleDecal.uasset'
+[2022.01.06-22.31.14:532][895]AssetCheck: New page: Asset Save: BulletHoleDecal
+[2022.01.06-22.31.14:532][895]LogContentValidation: Display: Validating Material /Game/Game/Assets/Art/BulletHoleDecal.BulletHoleDecal
+[2022.01.06-22.31.14:534][895]MaterialEditorStats: Base pass shader: 79 instructions
+[2022.01.06-22.31.14:534][895]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 106 instructions
+[2022.01.06-22.31.14:535][895]MaterialEditorStats: Base pass vertex shader: 169 instructions
+[2022.01.06-22.31.14:535][895]MaterialEditorStats: Texture samplers: 4/16
+[2022.01.06-22.31.14:535][895]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.01.06-22.31.14:535][895]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.06-22.31.37:119][222]LogMaterial: Display: Missing cached shader map for material BulletHoleDecal, compiling. 
+[2022.01.06-22.31.37:157][223]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 24
+[2022.01.06-22.31.37:158][223]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 23
+[2022.01.06-22.31.37:158][223]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 22
+[2022.01.06-22.31.37:158][223]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 21
+[2022.01.06-22.31.37:158][223]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 20
+[2022.01.06-22.31.37:158][223]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 19
+[2022.01.06-22.31.37:158][223]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 18
+[2022.01.06-22.31.37:158][223]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 17
+[2022.01.06-22.31.37:158][223]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 16
+[2022.01.06-22.31.37:158][223]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 15
+[2022.01.06-22.31.37:158][223]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 14
+[2022.01.06-22.31.37:158][223]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 13
+[2022.01.06-22.31.37:820][247]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 12
+[2022.01.06-22.31.38:057][254]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 11
+[2022.01.06-22.31.38:091][255]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 10
+[2022.01.06-22.31.38:125][256]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 9
+[2022.01.06-22.31.38:383][263]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 8
+[2022.01.06-22.31.38:457][265]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 7
+[2022.01.06-22.31.38:501][266]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2022.01.06-22.31.38:501][266]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 5
+[2022.01.06-22.31.38:609][269]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2022.01.06-22.31.38:657][269]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2022.01.06-22.31.38:668][270]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2022.01.06-22.31.38:845][273]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.01.06-22.31.39:962][319]MaterialEditorStats: Base pass shader: 79 instructions
+[2022.01.06-22.31.39:962][319]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 106 instructions
+[2022.01.06-22.31.39:962][319]MaterialEditorStats: Base pass vertex shader: 169 instructions
+[2022.01.06-22.31.39:962][319]MaterialEditorStats: Texture samplers: 4/16
+[2022.01.06-22.31.39:962][319]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.01.06-22.31.39:962][319]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.06-22.31.51:103][747]LogMaterial: Display: Missing cached shader map for material BulletHoleDecal, compiling. 
+[2022.01.06-22.31.51:134][748]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 24
+[2022.01.06-22.31.51:134][748]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 23
+[2022.01.06-22.31.51:134][748]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 22
+[2022.01.06-22.31.51:134][748]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 21
+[2022.01.06-22.31.51:134][748]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 20
+[2022.01.06-22.31.51:134][748]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 19
+[2022.01.06-22.31.51:134][748]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 18
+[2022.01.06-22.31.51:134][748]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 17
+[2022.01.06-22.31.51:134][748]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 16
+[2022.01.06-22.31.51:134][748]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 15
+[2022.01.06-22.31.51:134][748]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 14
+[2022.01.06-22.31.51:134][748]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 13
+[2022.01.06-22.31.51:599][762]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 12
+[2022.01.06-22.31.51:827][768]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 11
+[2022.01.06-22.31.51:899][770]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 10
+[2022.01.06-22.31.51:899][770]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 9
+[2022.01.06-22.31.52:215][777]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 8
+[2022.01.06-22.31.52:258][778]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 7
+[2022.01.06-22.31.52:300][779]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.01.06-22.31.52:338][780]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.01.06-22.31.52:403][782]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2022.01.06-22.31.52:504][785]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 3
+[2022.01.06-22.31.52:546][786]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2022.01.06-22.31.52:589][787]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.01.06-22.31.54:457][830]MaterialEditorStats: Base pass shader: 79 instructions
+[2022.01.06-22.31.54:457][830]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 106 instructions
+[2022.01.06-22.31.54:457][830]MaterialEditorStats: Base pass vertex shader: 169 instructions
+[2022.01.06-22.31.54:457][830]MaterialEditorStats: Texture samplers: 4/16
+[2022.01.06-22.31.54:457][830]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.01.06-22.31.54:457][830]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.06-22.31.56:533][870]LogMaterial: Display: Missing cached shader map for material BulletHoleDecal, compiling. 
+[2022.01.06-22.31.56:547][870]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 24
+[2022.01.06-22.31.56:547][870]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 23
+[2022.01.06-22.31.56:547][870]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 22
+[2022.01.06-22.31.56:547][870]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 21
+[2022.01.06-22.31.56:547][870]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 20
+[2022.01.06-22.31.56:547][870]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 19
+[2022.01.06-22.31.56:547][870]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 18
+[2022.01.06-22.31.56:547][870]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 17
+[2022.01.06-22.31.56:547][870]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 16
+[2022.01.06-22.31.56:547][870]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 15
+[2022.01.06-22.31.56:547][870]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 14
+[2022.01.06-22.31.56:547][870]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 13
+[2022.01.06-22.31.57:029][885]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 12
+[2022.01.06-22.31.57:282][892]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 11
+[2022.01.06-22.31.57:348][894]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 10
+[2022.01.06-22.31.57:348][894]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 9
+[2022.01.06-22.31.57:582][900]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 8
+[2022.01.06-22.31.57:641][900]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2022.01.06-22.31.57:641][900]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 6
+[2022.01.06-22.31.57:720][903]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.01.06-22.31.57:756][904]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2022.01.06-22.31.57:827][906]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 3
+[2022.01.06-22.31.57:928][907]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2022.01.06-22.31.57:996][909]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.01.06-22.31.58:713][927]LogMaterial: Display: Missing cached shader map for material BulletHoleDecal, compiling. 
+[2022.01.06-22.31.58:734][927]LogMaterial: Display: Missing cached shader map for material BulletHoleDecal, compiling. 
+[2022.01.06-22.31.58:750][927]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 24
+[2022.01.06-22.31.58:750][927]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 23
+[2022.01.06-22.31.58:751][927]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 22
+[2022.01.06-22.31.58:751][927]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 21
+[2022.01.06-22.31.58:751][927]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 20
+[2022.01.06-22.31.58:753][927]LogMaterial: Display: Missing cached shader map for material BulletHoleDecal, compiling. 
+[2022.01.06-22.31.58:808][928]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 24
+[2022.01.06-22.31.58:839][929]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 23
+[2022.01.06-22.31.58:898][931]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 22
+[2022.01.06-22.31.59:005][934]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 21
+[2022.01.06-22.31.59:122][936]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 20
+[2022.01.06-22.31.59:228][938]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 19
+[2022.01.06-22.31.59:507][945]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 18
+[2022.01.06-22.31.59:542][946]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 17
+[2022.01.06-22.31.59:606][948]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 16
+[2022.01.06-22.31.59:641][949]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 15
+[2022.01.06-22.31.59:711][951]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 14
+[2022.01.06-22.31.59:944][957]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 13
+[2022.01.06-22.31.59:992][958]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 12
+[2022.01.06-22.32.00:155][962]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 11
+[2022.01.06-22.32.00:190][963]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 10
+[2022.01.06-22.32.00:299][966]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 9
+[2022.01.06-22.32.00:299][966]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.01.06-22.32.00:412][969]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 7
+[2022.01.06-22.32.00:518][972]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 6
+[2022.01.06-22.32.00:667][976]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 5
+[2022.01.06-22.32.00:709][977]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2022.01.06-22.32.00:872][981]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 3
+[2022.01.06-22.32.00:951][983]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2022.01.06-22.32.00:951][983]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2022.01.06-22.32.02:020][ 29]MaterialEditorStats: Base pass shader: 79 instructions
+[2022.01.06-22.32.02:020][ 29]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 106 instructions
+[2022.01.06-22.32.02:020][ 29]MaterialEditorStats: Base pass vertex shader: 169 instructions
+[2022.01.06-22.32.02:020][ 29]MaterialEditorStats: Texture samplers: 4/16
+[2022.01.06-22.32.02:020][ 29]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.01.06-22.32.02:020][ 29]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.06-22.32.02:570][ 62]LogMaterialEditor: Saving and Compiling material BulletHoleDecal
+[2022.01.06-22.32.03:021][ 62]LogMaterial: Display: Missing cached shader map for material BulletHoleDecal, compiling. 
+[2022.01.06-22.32.03:063][ 62]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 24
+[2022.01.06-22.32.03:063][ 62]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 23
+[2022.01.06-22.32.03:063][ 62]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 22
+[2022.01.06-22.32.03:063][ 62]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 21
+[2022.01.06-22.32.03:063][ 62]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 20
+[2022.01.06-22.32.03:063][ 62]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 19
+[2022.01.06-22.32.03:063][ 62]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 18
+[2022.01.06-22.32.03:063][ 62]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 17
+[2022.01.06-22.32.03:063][ 62]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 16
+[2022.01.06-22.32.03:063][ 62]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 15
+[2022.01.06-22.32.03:063][ 62]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 14
+[2022.01.06-22.32.03:063][ 62]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 13
+[2022.01.06-22.32.03:097][ 62]LogMaterial: Display: Missing cached shader map for material BulletHoleDecal, compiling. 
+[2022.01.06-22.32.03:168][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2022.01.06-22.32.03:170][ 62]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2022.01.06-22.32.03:201][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.01.06-22.32.03:807][ 62]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 46
+[2022.01.06-22.32.03:807][ 62]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 45
+[2022.01.06-22.32.03:807][ 62]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 44
+[2022.01.06-22.32.03:807][ 62]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 43
+[2022.01.06-22.32.04:363][ 62]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 42
+[2022.01.06-22.32.04:363][ 62]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 41
+[2022.01.06-22.32.04:363][ 62]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 40
+[2022.01.06-22.32.04:363][ 62]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 39
+[2022.01.06-22.32.04:364][ 62]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 38
+[2022.01.06-22.32.04:364][ 62]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 37
+[2022.01.06-22.32.04:364][ 62]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 36
+[2022.01.06-22.32.04:364][ 62]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 35
+[2022.01.06-22.32.04:918][ 62]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 34
+[2022.01.06-22.32.04:918][ 62]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 31
+[2022.01.06-22.32.04:918][ 62]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 28
+[2022.01.06-22.32.04:918][ 62]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 25
+[2022.01.06-22.32.05:474][ 62]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 22
+[2022.01.06-22.32.05:474][ 62]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 20
+[2022.01.06-22.32.05:474][ 62]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 18
+[2022.01.06-22.32.05:474][ 62]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 16
+[2022.01.06-22.32.05:474][ 62]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 14
+[2022.01.06-22.32.05:474][ 62]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 12
+[2022.01.06-22.32.05:474][ 62]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 10
+[2022.01.06-22.32.06:030][ 62]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 9
+[2022.01.06-22.32.06:587][ 62]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 8
+[2022.01.06-22.32.06:587][ 62]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 7
+[2022.01.06-22.32.06:587][ 62]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 6
+[2022.01.06-22.32.07:144][ 62]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2022.01.06-22.32.07:144][ 62]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2022.01.06-22.32.07:144][ 62]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2022.01.06-22.32.07:144][ 62]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 2
+[2022.01.06-22.32.07:144][ 62]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.01.06-22.32.07:662][ 62]LogSavePackage: Moving '../../../../../../Users/aasmu/Documents/GitHub/FPS-template-with-shooting-AI/Saved/BulletHoleDecalD9E75D44475AACDA2CCE2EB33A29DDE7.tmp' to '../../../../../../Users/aasmu/Documents/GitHub/FPS-template-with-shooting-AI/Content/Game/Assets/Art/BulletHoleDecal.uasset'
+[2022.01.06-22.32.07:700][ 62]AssetCheck: New page: Asset Save: BulletHoleDecal
+[2022.01.06-22.32.07:700][ 62]LogContentValidation: Display: Validating Material /Game/Game/Assets/Art/BulletHoleDecal.BulletHoleDecal
+[2022.01.06-22.32.16:784][360]LogMaterial: Display: Missing cached shader map for material BulletHoleDecal, compiling. 
+[2022.01.06-22.32.16:815][361]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 24
+[2022.01.06-22.32.16:816][361]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 23
+[2022.01.06-22.32.16:816][361]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 22
+[2022.01.06-22.32.16:816][361]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 21
+[2022.01.06-22.32.16:816][361]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 20
+[2022.01.06-22.32.16:816][361]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 19
+[2022.01.06-22.32.16:816][361]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 18
+[2022.01.06-22.32.16:816][361]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 17
+[2022.01.06-22.32.16:816][361]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 16
+[2022.01.06-22.32.16:816][361]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 15
+[2022.01.06-22.32.16:816][361]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 14
+[2022.01.06-22.32.16:816][361]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 13
+[2022.01.06-22.32.17:271][375]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 12
+[2022.01.06-22.32.17:478][381]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 11
+[2022.01.06-22.32.17:511][382]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 10
+[2022.01.06-22.32.17:546][383]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 9
+[2022.01.06-22.32.17:842][389]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 8
+[2022.01.06-22.32.17:917][391]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2022.01.06-22.32.17:917][391]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 6
+[2022.01.06-22.32.18:048][394]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.01.06-22.32.18:048][394]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2022.01.06-22.32.18:111][396]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 3
+[2022.01.06-22.32.18:182][398]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2022.01.06-22.32.18:258][400]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.01.06-22.32.18:821][415]LogMaterial: Display: Missing cached shader map for material BulletHoleDecal, compiling. 
+[2022.01.06-22.32.18:841][415]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 24
+[2022.01.06-22.32.18:841][415]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 23
+[2022.01.06-22.32.18:841][415]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 22
+[2022.01.06-22.32.18:846][415]LogMaterial: Display: Missing cached shader map for material BulletHoleDecal, compiling. 
+[2022.01.06-22.32.18:867][415]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 24
+[2022.01.06-22.32.18:873][415]LogMaterial: Display: Missing cached shader map for material BulletHoleDecal, compiling. 
+[2022.01.06-22.32.19:006][418]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 24
+[2022.01.06-22.32.19:082][419]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 23
+[2022.01.06-22.32.19:217][422]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 22
+[2022.01.06-22.32.19:262][423]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 21
+[2022.01.06-22.32.19:262][423]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 20
+[2022.01.06-22.32.19:302][424]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 19
+[2022.01.06-22.32.19:341][425]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 18
+[2022.01.06-22.32.19:586][430]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 17
+[2022.01.06-22.32.19:911][438]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 16
+[2022.01.06-22.32.19:971][440]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 15
+[2022.01.06-22.32.20:003][441]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 14
+[2022.01.06-22.32.20:033][442]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 13
+[2022.01.06-22.32.20:109][444]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 12
+[2022.01.06-22.32.20:177][446]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 11
+[2022.01.06-22.32.20:293][449]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 10
+[2022.01.06-22.32.20:332][450]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 9
+[2022.01.06-22.32.20:441][452]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 8
+[2022.01.06-22.32.20:482][453]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 7
+[2022.01.06-22.32.20:623][456]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 6
+[2022.01.06-22.32.20:658][457]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.01.06-22.32.20:977][464]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2022.01.06-22.32.21:057][466]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 3
+[2022.01.06-22.32.21:159][469]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 2
+[2022.01.06-22.32.21:254][472]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2022.01.06-22.32.22:186][517]MaterialEditorStats: Base pass shader: 79 instructions
+[2022.01.06-22.32.22:186][517]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 106 instructions
+[2022.01.06-22.32.22:186][517]MaterialEditorStats: Base pass vertex shader: 169 instructions
+[2022.01.06-22.32.22:186][517]MaterialEditorStats: Texture samplers: 4/16
+[2022.01.06-22.32.22:186][517]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.01.06-22.32.22:186][517]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.06-22.32.23:268][582]LogMaterialEditor: Saving and Compiling material BulletHoleDecal
+[2022.01.06-22.32.23:718][582]LogMaterial: Display: Missing cached shader map for material BulletHoleDecal, compiling. 
+[2022.01.06-22.32.23:762][582]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 24
+[2022.01.06-22.32.23:762][582]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 23
+[2022.01.06-22.32.23:762][582]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 22
+[2022.01.06-22.32.23:762][582]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 21
+[2022.01.06-22.32.23:762][582]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 20
+[2022.01.06-22.32.23:762][582]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 19
+[2022.01.06-22.32.23:762][582]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 18
+[2022.01.06-22.32.23:762][582]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 17
+[2022.01.06-22.32.23:762][582]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 16
+[2022.01.06-22.32.23:762][582]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 15
+[2022.01.06-22.32.23:762][582]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 14
+[2022.01.06-22.32.23:762][582]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 13
+[2022.01.06-22.32.23:797][582]LogMaterial: Display: Missing cached shader map for material BulletHoleDecal, compiling. 
+[2022.01.06-22.32.23:868][582]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.01.06-22.32.23:869][582]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2022.01.06-22.32.23:905][582]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.01.06-22.32.24:514][582]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 46
+[2022.01.06-22.32.24:514][582]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 45
+[2022.01.06-22.32.24:514][582]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 44
+[2022.01.06-22.32.24:514][582]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 43
+[2022.01.06-22.32.25:068][582]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 42
+[2022.01.06-22.32.25:068][582]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 41
+[2022.01.06-22.32.25:068][582]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 40
+[2022.01.06-22.32.25:068][582]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 39
+[2022.01.06-22.32.25:068][582]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 38
+[2022.01.06-22.32.25:068][582]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 37
+[2022.01.06-22.32.25:068][582]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 36
+[2022.01.06-22.32.25:068][582]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 35
+[2022.01.06-22.32.25:626][582]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 34
+[2022.01.06-22.32.25:626][582]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 31
+[2022.01.06-22.32.25:626][582]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 28
+[2022.01.06-22.32.25:626][582]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 25
+[2022.01.06-22.32.26:179][582]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 22
+[2022.01.06-22.32.26:179][582]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 20
+[2022.01.06-22.32.26:179][582]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 18
+[2022.01.06-22.32.26:179][582]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 16
+[2022.01.06-22.32.26:179][582]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 14
+[2022.01.06-22.32.26:179][582]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 12
+[2022.01.06-22.32.26:179][582]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 10
+[2022.01.06-22.32.26:736][582]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 9
+[2022.01.06-22.32.27:294][582]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 8
+[2022.01.06-22.32.27:294][582]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 7
+[2022.01.06-22.32.27:294][582]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 6
+[2022.01.06-22.32.27:850][582]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2022.01.06-22.32.27:850][582]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2022.01.06-22.32.27:850][582]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 3
+[2022.01.06-22.32.27:850][582]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2022.01.06-22.32.27:850][582]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.01.06-22.32.28:396][582]LogSavePackage: Moving '../../../../../../Users/aasmu/Documents/GitHub/FPS-template-with-shooting-AI/Saved/BulletHoleDecal81DCA09E478CEF835162819DD44AFA45.tmp' to '../../../../../../Users/aasmu/Documents/GitHub/FPS-template-with-shooting-AI/Content/Game/Assets/Art/BulletHoleDecal.uasset'
+[2022.01.06-22.32.28:428][582]AssetCheck: New page: Asset Save: BulletHoleDecal
+[2022.01.06-22.32.28:428][582]LogContentValidation: Display: Validating Material /Game/Game/Assets/Art/BulletHoleDecal.BulletHoleDecal
+[2022.01.06-22.32.58:100][931]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.01.06-22.32.58:100][931]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.06-22.37.36:875][859]BlueprintLog: New page: Compile FirstPersonProjectile
+[2022.01.06-22.37.36:938][859]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.01.06-22.37.37:775][903]LogSavePackage: Moving '../../../../../../Users/aasmu/Documents/GitHub/FPS-template-with-shooting-AI/Saved/FirstPersonProjectile3CBD9E53456CB131161295B9F23CB5ED.tmp' to '../../../../../../Users/aasmu/Documents/GitHub/FPS-template-with-shooting-AI/Content/Game/Blueprints/FirstPersonProjectile.uasset'
+[2022.01.06-22.37.37:789][903]AssetCheck: New page: Asset Save: FirstPersonProjectile
+[2022.01.06-22.37.37:789][903]LogContentValidation: Display: Validating Blueprint /Game/Game/Blueprints/FirstPersonProjectile.FirstPersonProjectile
+[2022.01.06-22.38.32:190][229]BlueprintLog: New page: Compile FirstPersonProjectile
+[2022.01.06-22.38.32:239][229]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.01.06-22.38.32:888][263]LogSavePackage: Moving '../../../../../../Users/aasmu/Documents/GitHub/FPS-template-with-shooting-AI/Saved/FirstPersonProjectile41E80F2F4F01E7667CDD2182CF274C46.tmp' to '../../../../../../Users/aasmu/Documents/GitHub/FPS-template-with-shooting-AI/Content/Game/Blueprints/FirstPersonProjectile.uasset'
+[2022.01.06-22.38.32:904][263]AssetCheck: New page: Asset Save: FirstPersonProjectile
+[2022.01.06-22.38.32:904][263]LogContentValidation: Display: Validating Blueprint /Game/Game/Blueprints/FirstPersonProjectile.FirstPersonProjectile
+[2022.01.06-22.38.58:391][498]BlueprintLog: New page: Compile FirstPersonProjectile
+[2022.01.06-22.38.58:435][498]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2022.01.06-22.38.59:013][527]LogSavePackage: Moving '../../../../../../Users/aasmu/Documents/GitHub/FPS-template-with-shooting-AI/Saved/FirstPersonProjectile9C62A8BB46A72E2D8A0CF1B3B39AC486.tmp' to '../../../../../../Users/aasmu/Documents/GitHub/FPS-template-with-shooting-AI/Content/Game/Blueprints/FirstPersonProjectile.uasset'
+[2022.01.06-22.38.59:030][527]AssetCheck: New page: Asset Save: FirstPersonProjectile
+[2022.01.06-22.38.59:030][527]LogContentValidation: Display: Validating Blueprint /Game/Game/Blueprints/FirstPersonProjectile.FirstPersonProjectile
+[2022.01.06-22.39.08:557][834]BlueprintLog: New page: Compile FirstPersonProjectile
+[2022.01.06-22.39.08:608][834]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2022.01.06-22.39.09:040][854]LogSavePackage: Moving '../../../../../../Users/aasmu/Documents/GitHub/FPS-template-with-shooting-AI/Saved/FirstPersonProjectile39BD3D7B47CC75691DF2ED8BA0E1CC79.tmp' to '../../../../../../Users/aasmu/Documents/GitHub/FPS-template-with-shooting-AI/Content/Game/Blueprints/FirstPersonProjectile.uasset'
+[2022.01.06-22.39.09:059][854]AssetCheck: New page: Asset Save: FirstPersonProjectile
+[2022.01.06-22.39.09:059][854]LogContentValidation: Display: Validating Blueprint /Game/Game/Blueprints/FirstPersonProjectile.FirstPersonProjectile
+[2022.01.06-22.40.01:227][979]BlueprintLog: New page: Compile FirstPersonProjectile
+[2022.01.06-22.40.01:273][979]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2022.01.06-22.40.01:766][  3]LogSavePackage: Moving '../../../../../../Users/aasmu/Documents/GitHub/FPS-template-with-shooting-AI/Saved/FirstPersonProjectile0BBEF15D4D61BEAE14B49E8C1609F85E.tmp' to '../../../../../../Users/aasmu/Documents/GitHub/FPS-template-with-shooting-AI/Content/Game/Blueprints/FirstPersonProjectile.uasset'
+[2022.01.06-22.40.01:784][  3]AssetCheck: New page: Asset Save: FirstPersonProjectile
+[2022.01.06-22.40.01:784][  3]LogContentValidation: Display: Validating Blueprint /Game/Game/Blueprints/FirstPersonProjectile.FirstPersonProjectile
+[2022.01.06-22.40.06:132][139]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.06-22.40.06:147][139]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.06-22.40.06:147][139]PIE: New page: PIE session: FirstPersonExampleMap (Jan 7, 2022, 12:40:06 AM)
+[2022.01.06-22.40.06:147][139]LogPlayLevel: Creating play world package: /Game/Game/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.01.06-22.40.06:161][139]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014259s)
+[2022.01.06-22.40.06:163][139]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.01.06-22.40.06:163][139]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001DF209D5E00), frame # 113139
+[2022.01.06-22.40.06:163][139]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001DF227AA980), frame # 113139
+[2022.01.06-22.40.06:164][139]LogPlayLevel: PIE: World Init took: (0.002254s)
+[2022.01.06-22.40.06:164][139]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/Game/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.016678s)
+[2022.01.06-22.40.06:194][139]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2022.01.06-22.40.06:196][139]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.06-22.40.06:196][139]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.06-22.40.06:196][139]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.06-22.40.06:196][139]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.06-22.40.06:196][139]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.06-22.40.06:196][139]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.06-22.40.06:196][139]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.06-22.40.06:196][139]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.06-22.40.06:196][139]LogAudio: Display: Using built-in audio occlusion.
+[2022.01.06-22.40.06:196][139]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.06-22.40.06:198][139]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.06-22.40.06:198][139]LogAudioMixer: Display: 1: FrontRight
+[2022.01.06-22.40.06:198][139]LogAudioMixer: Display: 2: FrontCenter
+[2022.01.06-22.40.06:198][139]LogAudioMixer: Display: 3: LowFrequency
+[2022.01.06-22.40.06:198][139]LogAudioMixer: Display: 4: BackLeft
+[2022.01.06-22.40.06:198][139]LogAudioMixer: Display: 5: BackRight
+[2022.01.06-22.40.06:198][139]LogAudioMixer: Display: 6: SideLeft
+[2022.01.06-22.40.06:198][139]LogAudioMixer: Display: 7: SideRight
+[2022.01.06-22.40.06:232][139]LogAudioMixer: Display: Using Audio Device Headphones (ROG Headset)
+[2022.01.06-22.40.06:232][139]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.06-22.40.06:232][139]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.06-22.40.06:232][139]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.06-22.40.06:233][139]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.06-22.40.06:247][139]LogInit: FAudioDevice initialized.
+[2022.01.06-22.40.06:255][139]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.01.06-22.40.06:259][139]LogWorld: Bringing World /Game/Game/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2022.01.06-23.40.06
+[2022.01.06-22.40.06:261][139]LogWorld: Bringing up level for play took: 0.004577
+[2022.01.06-22.40.06:261][139]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2022.01.06-22.40.06:265][139]PIE: Server logged in
+[2022.01.06-22.40.06:265][139]PIE: Play in editor total start time 0.119 seconds.
+[2022.01.06-22.40.22:695][121]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.06-22.40.22:695][121]LogWorld: BeginTearingDown for /Game/Game/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.01.06-22.40.22:695][121]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.01.06-22.40.22:696][121]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.06-22.40.22:703][121]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.06-22.40.22:706][121]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.06-22.40.22:751][121]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.06-22.40.22:752][121]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001DF227AA980), frame # 114121
+[2022.01.06-22.40.22:752][121]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001DF209D5E00), frame # 114121
+[2022.01.06-22.40.22:755][121]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.01.06-22.40.22:798][122]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2022.01.06-22.40.30:745][502]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Game/Assets/Art/BulletHoleDecal.BulletHoleDecal
+[2022.01.06-22.40.30:746][502]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2022.01.06-22.40.30:809][502]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2022.01.06-22.40.30:819][502]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2022.01.06-22.40.30:836][502]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 24
+[2022.01.06-22.40.30:836][502]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 23
+[2022.01.06-22.40.30:836][502]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 22
+[2022.01.06-22.40.30:836][502]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 21
+[2022.01.06-22.40.30:836][502]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 20
+[2022.01.06-22.40.30:836][502]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 19
+[2022.01.06-22.40.30:836][502]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 18
+[2022.01.06-22.40.30:836][502]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 17
+[2022.01.06-22.40.30:836][502]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 16
+[2022.01.06-22.40.30:836][502]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 15
+[2022.01.06-22.40.30:836][502]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 14
+[2022.01.06-22.40.30:836][502]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 13
+[2022.01.06-22.40.30:839][502]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2022.01.06-22.40.31:477][518]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 16
+[2022.01.06-22.40.31:768][526]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 15
+[2022.01.06-22.40.31:834][528]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 14
+[2022.01.06-22.40.31:867][529]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 13
+[2022.01.06-22.40.32:117][536]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 12
+[2022.01.06-22.40.32:226][539]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 11
+[2022.01.06-22.40.32:226][539]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 10
+[2022.01.06-22.40.32:226][539]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 9
+[2022.01.06-22.40.32:292][541]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 8
+[2022.01.06-22.40.32:353][543]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 7
+[2022.01.06-22.40.32:453][546]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 6
+[2022.01.06-22.40.32:490][547]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2022.01.06-22.40.32:684][551]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2022.01.06-22.40.32:882][556]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2022.01.06-22.40.33:029][560]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2022.01.06-22.40.33:306][568]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2022.01.06-22.40.33:958][594]MaterialEditorStats: Base pass shader: 79 instructions
+[2022.01.06-22.40.33:958][594]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 106 instructions
+[2022.01.06-22.40.33:958][594]MaterialEditorStats: Base pass vertex shader: 169 instructions
+[2022.01.06-22.40.33:958][594]MaterialEditorStats: Texture samplers: 4/16
+[2022.01.06-22.40.33:958][594]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.01.06-22.40.33:958][594]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.06-22.40.34:642][635]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2022.01.06-22.40.34:670][636]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 24
+[2022.01.06-22.40.34:670][636]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 23
+[2022.01.06-22.40.34:671][636]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 22
+[2022.01.06-22.40.34:671][636]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 21
+[2022.01.06-22.40.34:671][636]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 20
+[2022.01.06-22.40.34:671][636]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 19
+[2022.01.06-22.40.34:671][636]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 18
+[2022.01.06-22.40.34:671][636]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 17
+[2022.01.06-22.40.34:671][636]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 16
+[2022.01.06-22.40.34:671][636]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 15
+[2022.01.06-22.40.34:671][636]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 14
+[2022.01.06-22.40.34:671][636]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 13
+[2022.01.06-22.40.35:141][650]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 12
+[2022.01.06-22.40.35:345][656]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 11
+[2022.01.06-22.40.35:412][658]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 10
+[2022.01.06-22.40.35:412][658]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 9
+[2022.01.06-22.40.35:712][666]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 8
+[2022.01.06-22.40.35:751][667]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2022.01.06-22.40.35:826][669]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2022.01.06-22.40.35:863][670]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 5
+[2022.01.06-22.40.35:897][671]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2022.01.06-22.40.35:961][673]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 3
+[2022.01.06-22.40.36:026][675]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2022.01.06-22.40.36:065][676]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.01.06-22.40.36:300][681]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2022.01.06-22.40.36:301][681]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.01.06-22.40.36:301][681]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2022.01.06-22.40.36:309][681]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2022.01.06-22.40.36:310][681]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.01.06-22.40.36:310][681]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2022.01.06-22.40.36:316][681]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2022.01.06-22.40.36:317][681]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.01.06-22.40.36:317][681]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2022.01.06-22.40.36:334][681]MaterialEditorStats: Error: [SM5] Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2022.01.06-22.40.41:695][985]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2022.01.06-22.40.41:695][985]LogMaterial: Warning: /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.01.06-22.40.41:695][985]LogMaterial: Display: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2022.01.06-22.40.43:362][ 85]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2022.01.06-22.40.43:372][ 85]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 24
+[2022.01.06-22.40.43:372][ 85]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 23
+[2022.01.06-22.40.43:372][ 85]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 22
+[2022.01.06-22.40.43:372][ 85]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 21
+[2022.01.06-22.40.43:372][ 85]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 20
+[2022.01.06-22.40.43:372][ 85]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 19
+[2022.01.06-22.40.43:372][ 85]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 18
+[2022.01.06-22.40.43:372][ 85]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 17
+[2022.01.06-22.40.43:372][ 85]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 16
+[2022.01.06-22.40.43:372][ 85]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 15
+[2022.01.06-22.40.43:372][ 85]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 14
+[2022.01.06-22.40.43:372][ 85]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 13
+[2022.01.06-22.40.43:373][ 85]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2022.01.06-22.40.43:391][ 85]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2022.01.06-22.40.43:894][ 98]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 24
+[2022.01.06-22.40.44:090][104]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 23
+[2022.01.06-22.40.44:157][106]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 22
+[2022.01.06-22.40.44:157][106]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 21
+[2022.01.06-22.40.44:477][115]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 20
+[2022.01.06-22.40.44:477][115]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 19
+[2022.01.06-22.40.44:510][116]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 18
+[2022.01.06-22.40.44:633][120]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 17
+[2022.01.06-22.40.44:633][120]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 16
+[2022.01.06-22.40.44:661][121]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 15
+[2022.01.06-22.40.44:747][124]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 14
+[2022.01.06-22.40.44:748][124]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 13
+[2022.01.06-22.40.44:775][125]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 12
+[2022.01.06-22.40.45:001][131]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 11
+[2022.01.06-22.40.45:043][132]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 10
+[2022.01.06-22.40.45:408][140]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 9
+[2022.01.06-22.40.45:442][141]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 8
+[2022.01.06-22.40.45:475][142]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 7
+[2022.01.06-22.40.45:560][145]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 6
+[2022.01.06-22.40.45:620][147]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2022.01.06-22.40.45:720][150]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2022.01.06-22.40.45:758][151]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2022.01.06-22.40.45:963][156]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2022.01.06-22.40.46:003][157]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2022.01.06-22.40.47:079][204]MaterialEditorStats: Base pass shader: 79 instructions
+[2022.01.06-22.40.47:079][204]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 106 instructions
+[2022.01.06-22.40.47:079][204]MaterialEditorStats: Base pass vertex shader: 169 instructions
+[2022.01.06-22.40.47:079][204]MaterialEditorStats: Texture samplers: 4/16
+[2022.01.06-22.40.47:079][204]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.01.06-22.40.47:079][204]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.06-22.40.52:884][549]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2022.01.06-22.40.52:909][549]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 24
+[2022.01.06-22.40.52:910][549]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 23
+[2022.01.06-22.40.52:910][549]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 22
+[2022.01.06-22.40.52:910][549]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 21
+[2022.01.06-22.40.52:910][549]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 20
+[2022.01.06-22.40.52:910][549]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 19
+[2022.01.06-22.40.52:910][549]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 18
+[2022.01.06-22.40.52:910][549]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 17
+[2022.01.06-22.40.52:910][549]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 16
+[2022.01.06-22.40.52:910][549]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 15
+[2022.01.06-22.40.52:910][549]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 14
+[2022.01.06-22.40.52:910][549]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 13
+[2022.01.06-22.40.53:344][563]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 12
+[2022.01.06-22.40.53:604][570]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 11
+[2022.01.06-22.40.53:641][571]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 10
+[2022.01.06-22.40.53:641][571]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 9
+[2022.01.06-22.40.53:651][571]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2022.01.06-22.40.53:680][571]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2022.01.06-22.40.53:991][578]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 28
+[2022.01.06-22.40.54:065][580]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 27
+[2022.01.06-22.40.54:065][580]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 26
+[2022.01.06-22.40.54:130][582]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 25
+[2022.01.06-22.40.54:197][584]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 24
+[2022.01.06-22.40.54:231][585]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 23
+[2022.01.06-22.40.54:304][587]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 22
+[2022.01.06-22.40.54:355][588]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 21
+[2022.01.06-22.40.54:500][592]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 20
+[2022.01.06-22.40.54:786][599]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 19
+[2022.01.06-22.40.54:786][599]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 18
+[2022.01.06-22.40.54:821][600]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 17
+[2022.01.06-22.40.54:930][603]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 16
+[2022.01.06-22.40.55:273][613]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 15
+[2022.01.06-22.40.55:311][614]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 14
+[2022.01.06-22.40.55:345][615]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 13
+[2022.01.06-22.40.55:465][619]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 12
+[2022.01.06-22.40.55:465][619]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 11
+[2022.01.06-22.40.55:551][622]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 10
+[2022.01.06-22.40.55:551][622]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 9
+[2022.01.06-22.40.55:611][624]LogMaterialEditor: Saving and Compiling material BulletHoleDecal
+[2022.01.06-22.40.56:719][624]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 8
+[2022.01.06-22.40.56:719][624]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 7
+[2022.01.06-22.40.56:719][624]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2022.01.06-22.40.56:719][624]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2022.01.06-22.40.56:719][624]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 4
+[2022.01.06-22.40.56:719][624]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 3
+[2022.01.06-22.40.56:719][624]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.01.06-22.40.56:719][624]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2022.01.06-22.40.56:748][624]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2022.01.06-22.40.56:831][624]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 24
+[2022.01.06-22.40.56:831][624]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 23
+[2022.01.06-22.40.56:831][624]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 22
+[2022.01.06-22.40.56:831][624]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 21
+[2022.01.06-22.40.56:831][624]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 20
+[2022.01.06-22.40.56:856][624]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 19
+[2022.01.06-22.40.56:873][624]LogMaterial: Display: Missing cached shader map for material BulletHoleDecal, compiling. 
+[2022.01.06-22.40.56:929][624]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 18
+[2022.01.06-22.40.56:973][624]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 51
+[2022.01.06-22.40.56:973][624]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2022.01.06-22.40.56:976][624]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2022.01.06-22.40.57:014][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.01.06-22.40.57:033][624]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 50
+[2022.01.06-22.40.57:053][624]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 49
+[2022.01.06-22.40.57:617][624]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 48
+[2022.01.06-22.40.57:617][624]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 47
+[2022.01.06-22.40.57:617][624]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 46
+[2022.01.06-22.40.57:617][624]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 45
+[2022.01.06-22.40.57:617][624]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 44
+[2022.01.06-22.40.58:174][624]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 43
+[2022.01.06-22.40.58:174][624]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 42
+[2022.01.06-22.40.58:174][624]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 41
+[2022.01.06-22.40.58:174][624]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 40
+[2022.01.06-22.40.58:174][624]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 39
+[2022.01.06-22.40.58:174][624]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 38
+[2022.01.06-22.40.58:174][624]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 37
+[2022.01.06-22.40.58:174][624]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 36
+[2022.01.06-22.40.58:730][624]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 35
+[2022.01.06-22.40.58:730][624]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 34
+[2022.01.06-22.40.58:730][624]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 31
+[2022.01.06-22.40.58:730][624]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 28
+[2022.01.06-22.40.58:730][624]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 25
+[2022.01.06-22.40.59:286][624]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 22
+[2022.01.06-22.40.59:286][624]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 20
+[2022.01.06-22.40.59:286][624]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 18
+[2022.01.06-22.40.59:286][624]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 16
+[2022.01.06-22.40.59:286][624]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 14
+[2022.01.06-22.40.59:286][624]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 12
+[2022.01.06-22.40.59:286][624]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 10
+[2022.01.06-22.40.59:844][624]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 9
+[2022.01.06-22.41.00:402][624]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2022.01.06-22.41.00:402][624]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 7
+[2022.01.06-22.41.00:402][624]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2022.01.06-22.41.00:958][624]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 5
+[2022.01.06-22.41.00:958][624]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2022.01.06-22.41.00:958][624]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2022.01.06-22.41.00:958][624]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2022.01.06-22.41.00:958][624]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1
+[2022.01.06-22.41.01:545][624]LogSavePackage: Moving '../../../../../../Users/aasmu/Documents/GitHub/FPS-template-with-shooting-AI/Saved/BulletHoleDecal9EE380D24934AB95E4F3AEB3FD16FDE1.tmp' to '../../../../../../Users/aasmu/Documents/GitHub/FPS-template-with-shooting-AI/Content/Game/Assets/Art/BulletHoleDecal.uasset'
+[2022.01.06-22.41.01:578][624]AssetCheck: New page: Asset Save: BulletHoleDecal
+[2022.01.06-22.41.01:578][624]LogContentValidation: Display: Validating Material /Game/Game/Assets/Art/BulletHoleDecal.BulletHoleDecal
+[2022.01.06-22.41.01:579][624]MaterialEditorStats: Base pass shader: 79 instructions
+[2022.01.06-22.41.01:579][624]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 106 instructions
+[2022.01.06-22.41.01:579][624]MaterialEditorStats: Base pass vertex shader: 169 instructions
+[2022.01.06-22.41.01:579][624]MaterialEditorStats: Texture samplers: 4/16
+[2022.01.06-22.41.01:579][624]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.01.06-22.41.01:579][624]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.06-22.41.05:926][866]LogSlate: Window 'BulletHoleDecal' being destroyed
+[2022.01.06-22.41.05:933][866]LogSlate: Window 'BulletHoleDecal' being destroyed
+[2022.01.06-22.41.05:972][866]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.01.06-22.41.05:972][866]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.06-22.41.08:884][  7]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.06-22.41.08:897][  7]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.06-22.41.08:897][  7]PIE: New page: PIE session: FirstPersonExampleMap (Jan 7, 2022, 12:41:08 AM)
+[2022.01.06-22.41.08:897][  7]LogPlayLevel: Creating play world package: /Game/Game/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.01.06-22.41.08:910][  7]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012810s)
+[2022.01.06-22.41.08:911][  7]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.01.06-22.41.08:911][  7]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001DF2B3AB800), frame # 116007
+[2022.01.06-22.41.08:911][  7]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001DF16C22D40), frame # 116007
+[2022.01.06-22.41.08:912][  7]LogPlayLevel: PIE: World Init took: (0.001437s)
+[2022.01.06-22.41.08:912][  7]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/Game/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.014421s)
+[2022.01.06-22.41.08:940][  7]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.01.06-22.41.08:942][  7]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.06-22.41.08:942][  7]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.06-22.41.08:942][  7]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.06-22.41.08:942][  7]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.06-22.41.08:942][  7]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.06-22.41.08:942][  7]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.06-22.41.08:942][  7]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.06-22.41.08:942][  7]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.06-22.41.08:943][  7]LogAudio: Display: Using built-in audio occlusion.
+[2022.01.06-22.41.08:943][  7]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.06-22.41.08:945][  7]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.06-22.41.08:945][  7]LogAudioMixer: Display: 1: FrontRight
+[2022.01.06-22.41.08:945][  7]LogAudioMixer: Display: 2: FrontCenter
+[2022.01.06-22.41.08:945][  7]LogAudioMixer: Display: 3: LowFrequency
+[2022.01.06-22.41.08:945][  7]LogAudioMixer: Display: 4: BackLeft
+[2022.01.06-22.41.08:945][  7]LogAudioMixer: Display: 5: BackRight
+[2022.01.06-22.41.08:945][  7]LogAudioMixer: Display: 6: SideLeft
+[2022.01.06-22.41.08:945][  7]LogAudioMixer: Display: 7: SideRight
+[2022.01.06-22.41.08:975][  7]LogAudioMixer: Display: Using Audio Device Headphones (ROG Headset)
+[2022.01.06-22.41.08:976][  7]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.06-22.41.08:976][  7]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.06-22.41.08:976][  7]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.06-22.41.08:976][  7]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.06-22.41.08:991][  7]LogInit: FAudioDevice initialized.
+[2022.01.06-22.41.08:999][  7]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.01.06-22.41.09:004][  7]LogWorld: Bringing World /Game/Game/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2022.01.06-23.41.09
+[2022.01.06-22.41.09:005][  7]LogWorld: Bringing up level for play took: 0.004806
+[2022.01.06-22.41.09:005][  7]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2022.01.06-22.41.09:009][  7]PIE: Server logged in
+[2022.01.06-22.41.09:010][  7]PIE: Play in editor total start time 0.112 seconds.
+[2022.01.06-22.41.36:424][647]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.06-22.41.36:424][647]LogWorld: BeginTearingDown for /Game/Game/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.01.06-22.41.36:425][647]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.01.06-22.41.36:426][647]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.06-22.41.36:433][647]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.06-22.41.36:437][647]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.06-22.41.36:482][647]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.06-22.41.36:484][647]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001DF16C22D40), frame # 117647
+[2022.01.06-22.41.36:484][647]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001DF2B3AB800), frame # 117647
+[2022.01.06-22.41.36:486][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.01.06-22.41.36:537][648]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2022.01.06-22.42.33:767][144]LogSlate: Window 'FirstPersonProjectile' being destroyed
+[2022.01.06-22.42.33:773][144]LogSlate: Window 'FirstPersonProjectile' being destroyed
+[2022.01.06-22.42.33:813][144]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.01.06-22.42.33:814][144]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.06-22.42.33:873][144]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.01.06-22.42.33:873][144]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.01.06-22.42.33:873][144]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.06-22.42.35:058][213]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.06-22.42.35:072][213]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.06-22.42.35:072][213]PIE: New page: PIE session: FirstPersonExampleMap (Jan 7, 2022, 12:42:35 AM)
+[2022.01.06-22.42.35:072][213]LogPlayLevel: Creating play world package: /Game/Game/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.01.06-22.42.35:085][213]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013622s)
+[2022.01.06-22.42.35:087][213]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.01.06-22.42.35:087][213]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001DF12B26800), frame # 118213
+[2022.01.06-22.42.35:087][213]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001DF19E7A200), frame # 118213
+[2022.01.06-22.42.35:087][213]LogPlayLevel: PIE: World Init took: (0.001581s)
+[2022.01.06-22.42.35:087][213]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/Game/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.015386s)
+[2022.01.06-22.42.35:115][213]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.01.06-22.42.35:117][213]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.06-22.42.35:117][213]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.06-22.42.35:117][213]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.06-22.42.35:117][213]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.06-22.42.35:117][213]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.06-22.42.35:117][213]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.06-22.42.35:117][213]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.06-22.42.35:117][213]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.06-22.42.35:117][213]LogAudio: Display: Using built-in audio occlusion.
+[2022.01.06-22.42.35:117][213]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.06-22.42.35:119][213]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.06-22.42.35:119][213]LogAudioMixer: Display: 1: FrontRight
+[2022.01.06-22.42.35:119][213]LogAudioMixer: Display: 2: FrontCenter
+[2022.01.06-22.42.35:119][213]LogAudioMixer: Display: 3: LowFrequency
+[2022.01.06-22.42.35:119][213]LogAudioMixer: Display: 4: BackLeft
+[2022.01.06-22.42.35:119][213]LogAudioMixer: Display: 5: BackRight
+[2022.01.06-22.42.35:119][213]LogAudioMixer: Display: 6: SideLeft
+[2022.01.06-22.42.35:119][213]LogAudioMixer: Display: 7: SideRight
+[2022.01.06-22.42.35:149][213]LogAudioMixer: Display: Using Audio Device Headphones (ROG Headset)
+[2022.01.06-22.42.35:150][213]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.06-22.42.35:150][213]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.06-22.42.35:150][213]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.06-22.42.35:150][213]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.06-22.42.35:163][213]LogInit: FAudioDevice initialized.
+[2022.01.06-22.42.35:169][213]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.01.06-22.42.35:174][213]LogWorld: Bringing World /Game/Game/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2022.01.06-23.42.35
+[2022.01.06-22.42.35:175][213]LogWorld: Bringing up level for play took: 0.004730
+[2022.01.06-22.42.35:175][213]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2022.01.06-22.42.35:179][213]PIE: Server logged in
+[2022.01.06-22.42.35:179][213]PIE: Play in editor total start time 0.108 seconds.
+[2022.01.06-22.42.55:425][426]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1790.076 Y=-752.497 Z=263.203] for [FirstPersonProjectile_C]
+[2022.01.06-22.42.55:560][434]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1792.480 Y=-758.889 Z=269.305] for [FirstPersonProjectile_C]
+[2022.01.06-22.43.11:465][386]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.06-22.43.11:465][386]LogWorld: BeginTearingDown for /Game/Game/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.01.06-22.43.11:465][386]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.01.06-22.43.11:466][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.06-22.43.11:472][386]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.06-22.43.11:477][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.06-22.43.11:536][386]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.06-22.43.11:538][386]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001DF19E7A200), frame # 120386
+[2022.01.06-22.43.11:538][386]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001DF12B26800), frame # 120386
+[2022.01.06-22.43.11:540][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.01.06-22.43.11:578][387]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2022.01.06-22.44.42:708][986]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.01.06-22.44.42:742][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.01.06-22.44.42:781][986]LogSavePackage: Moving '../../../../../../Users/aasmu/Documents/GitHub/FPS-template-with-shooting-AI/Saved/FirstPersonExampleMap3473119A44503750147E6494C05EFA5E.tmp' to '../../../../../../Users/aasmu/Documents/GitHub/FPS-template-with-shooting-AI/Content/Game/Maps/FirstPersonExampleMap.umap'
+[2022.01.06-22.44.42:808][986]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.084
+[2022.01.06-22.44.43:071][986]LogSavePackage: Moving '../../../../../../Users/aasmu/Documents/GitHub/FPS-template-with-shooting-AI/Saved/FirstPersonExampleMap_BuiltData2EFA1C1A42A1C3F695B27EA967121F74.tmp' to '../../../../../../Users/aasmu/Documents/GitHub/FPS-template-with-shooting-AI/Content/Game/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.01.06-22.44.43:307][986]LogSavePackage: Moving '../../../../../../Users/aasmu/Documents/GitHub/FPS-template-with-shooting-AI/Saved/FirstPersonExampleMap_BuiltData8D9B48B14E6C7512E5375F95E3756DB9.tmp' to '../../../../../../Users/aasmu/Documents/GitHub/FPS-template-with-shooting-AI/Content/Game/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.01.06-22.44.43:326][986]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.06-22.44.43:326][986]LogContentValidation: Display: Validating World /Game/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.01.06-22.44.43:326][986]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Game/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
