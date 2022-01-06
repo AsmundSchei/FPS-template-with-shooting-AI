@@ -5970,3 +5970,75 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.01.06-17.18.26:700][ 36]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F5F72EE600), frame # 569036
 [2022.01.06-17.18.26:702][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
 [2022.01.06-17.18.26:741][ 37]LogPlayLevel: Display: Destroying online subsystem :Context_87
+[2022.01.06-17.24.05:101][571]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.06-17.24.05:115][571]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.06-17.24.05:115][571]PIE: New page: PIE session: FirstPersonExampleMap (Jan 6, 2022, 7:24:05 PM)
+[2022.01.06-17.24.05:115][571]LogPlayLevel: Creating play world package: /Game/Game/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.01.06-17.24.05:127][571]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012541s)
+[2022.01.06-17.24.05:129][571]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.01.06-17.24.05:129][571]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F6A480BA00), frame # 570571
+[2022.01.06-17.24.05:129][571]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F589D2AE80), frame # 570571
+[2022.01.06-17.24.05:130][571]LogPlayLevel: PIE: World Init took: (0.002249s)
+[2022.01.06-17.24.05:130][571]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/Game/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.015011s)
+[2022.01.06-17.24.05:154][571]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.01.06-17.24.05:157][571]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.06-17.24.05:157][571]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.06-17.24.05:157][571]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.06-17.24.05:157][571]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.06-17.24.05:157][571]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.06-17.24.05:157][571]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.06-17.24.05:157][571]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.06-17.24.05:157][571]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.06-17.24.05:157][571]LogAudio: Display: Using built-in audio occlusion.
+[2022.01.06-17.24.05:157][571]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.06-17.24.05:160][571]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.06-17.24.05:160][571]LogAudioMixer: Display: 1: FrontRight
+[2022.01.06-17.24.05:160][571]LogAudioMixer: Display: 2: FrontCenter
+[2022.01.06-17.24.05:160][571]LogAudioMixer: Display: 3: LowFrequency
+[2022.01.06-17.24.05:160][571]LogAudioMixer: Display: 4: BackLeft
+[2022.01.06-17.24.05:160][571]LogAudioMixer: Display: 5: BackRight
+[2022.01.06-17.24.05:160][571]LogAudioMixer: Display: 6: SideLeft
+[2022.01.06-17.24.05:160][571]LogAudioMixer: Display: 7: SideRight
+[2022.01.06-17.24.05:191][571]LogAudioMixer: Display: Using Audio Device Headphones (ROG Headset)
+[2022.01.06-17.24.05:191][571]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.06-17.24.05:191][571]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.06-17.24.05:191][571]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.06-17.24.05:192][571]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.06-17.24.05:203][571]LogInit: FAudioDevice initialized.
+[2022.01.06-17.24.05:213][571]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.01.06-17.24.05:218][571]LogWorld: Bringing World /Game/Game/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2022.01.06-18.24.05
+[2022.01.06-17.24.05:219][571]LogWorld: Bringing up level for play took: 0.004383
+[2022.01.06-17.24.05:219][571]LogOnline: OSS: Creating online subsystem instance for: :Context_88
+[2022.01.06-17.24.05:224][571]PIE: Server logged in
+[2022.01.06-17.24.05:224][571]PIE: Play in editor total start time 0.11 seconds.
+[2022.01.06-17.24.49:831][245]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.06-17.24.49:831][245]LogWorld: BeginTearingDown for /Game/Game/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.01.06-17.24.49:831][245]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.01.06-17.24.49:832][245]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.06-17.24.49:838][245]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.06-17.24.49:842][245]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.06-17.24.49:860][245]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.06-17.24.49:903][245]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F589D2AE80), frame # 573245
+[2022.01.06-17.24.49:903][245]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F6A480BA00), frame # 573245
+[2022.01.06-17.24.49:905][245]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.01.06-17.24.49:949][246]LogPlayLevel: Display: Destroying online subsystem :Context_88
+[2022.01.06-17.25.30:644][643]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Game/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2022.01.06-17.26.20:305][586]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.01.06-17.26.20:396][586]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.01.06-17.26.21:097][615]LogSavePackage: Moving '../../../../../../Users/aasmu/Documents/GitHub/FPS-template-with-shooting-AI/Saved/FirstPersonCharacter0C0627324E54C86DD6B1F9873FF55AC1.tmp' to '../../../../../../Users/aasmu/Documents/GitHub/FPS-template-with-shooting-AI/Content/Game/Blueprints/FirstPersonCharacter.uasset'
+[2022.01.06-17.26.21:110][615]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2022.01.06-17.26.21:110][615]LogContentValidation: Display: Validating Blueprint /Game/Game/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2022.01.06-17.26.41:083][800]LogSavePackage: Moving '../../../../../../Users/aasmu/Documents/GitHub/FPS-template-with-shooting-AI/Saved/FirstPersonCharacter6B020AD349615240B560F6879AC7ABF6.tmp' to '../../../../../../Users/aasmu/Documents/GitHub/FPS-template-with-shooting-AI/Content/Game/Blueprints/FirstPersonCharacter.uasset'
+[2022.01.06-17.26.41:098][800]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2022.01.06-17.26.41:098][800]LogContentValidation: Display: Validating Blueprint /Game/Game/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2022.01.06-17.27.54:958][622]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Game/Blueprints/GunSystem/FunctionLibrary.FunctionLibrary
+[2022.01.06-17.28.03:062][ 92]BlueprintLog: New page: Compile FunctionLibrary
+[2022.01.06-17.28.03:172][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2022.01.06-17.28.03:681][119]LogSavePackage: Moving '../../../../../../Users/aasmu/Documents/GitHub/FPS-template-with-shooting-AI/Saved/FunctionLibrary7CEBD9574A4ED5ECDC824D8FA374D420.tmp' to '../../../../../../Users/aasmu/Documents/GitHub/FPS-template-with-shooting-AI/Content/Game/Blueprints/GunSystem/FunctionLibrary.uasset'
+[2022.01.06-17.28.03:697][119]AssetCheck: New page: Asset Save: FunctionLibrary
+[2022.01.06-17.28.03:697][119]LogContentValidation: Display: Validating Blueprint /Game/Game/Blueprints/GunSystem/FunctionLibrary.FunctionLibrary
+[2022.01.06-17.28.05:956][254]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.01.06-17.28.06:062][254]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2022.01.06-17.28.06:758][283]LogSavePackage: Moving '../../../../../../Users/aasmu/Documents/GitHub/FPS-template-with-shooting-AI/Saved/FirstPersonCharacterE48075634B96F715018278AD4B87AD23.tmp' to '../../../../../../Users/aasmu/Documents/GitHub/FPS-template-with-shooting-AI/Content/Game/Blueprints/FirstPersonCharacter.uasset'
+[2022.01.06-17.28.06:779][283]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2022.01.06-17.28.06:780][283]LogContentValidation: Display: Validating Blueprint /Game/Game/Blueprints/FirstPersonCharacter.FirstPersonCharacter
