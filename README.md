@@ -4,7 +4,7 @@
 Got features like leaning, aiming, match time, projectile sound attenuation and scoreboard. 
 (Updated hud, thanks alot to Kosm (vfxfactory.org) for gun icon)
  
- This is now using EQS AI (found in eqs AI folder). It does throw out some errors, but those can be ignored. 
+ # This is now using EQS AI (found in eqs AI folder). It does throw out some errors, but those can be ignored. 
  
 Developed using 4.25 by Åsmund Schei and DeathClonic 
 
